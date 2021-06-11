@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /logo.png
+heroImage: ./logo.png
 heroText: 头痛的保安仔
 tagline: 一日到黑比人屈
 actionText: 睇下乜回事先 →
