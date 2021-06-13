@@ -1,4 +1,4 @@
-## 一只保安仔
+## 一只雷猴
 
 ::: warning
 This is a warning
@@ -70,4 +70,4 @@ function Promise(excutor) {
 ```
 
 
-## 两只保安仔
+## 两只雷猴

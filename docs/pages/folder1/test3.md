@@ -1,4 +1,4 @@
-## 洪拳保安仔
+## 洪拳雷猴
 
 ```  js
     function reject(reason) { // 详细备注
